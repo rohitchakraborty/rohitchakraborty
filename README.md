@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @rohitchakraborty
-- :telescope: I’m working as a Team Lead and contribute to backend development using Java and Python. Also well versed in PostgreSQL, Neptune and GraphQL.
+- :telescope: I’m working as a Team Lead and contribute to backend development using Java and Python. Also, well versed in PostgreSQL, Neptune and GraphQL.
 
 📫 Reach me at: 
 - [![](https://img.shields.io/badge/Mail-rohitchakraborty@hotmail.com-blue)](mailto:rohitchakraborty@hotmail.com?subject=[GitHub]) 
